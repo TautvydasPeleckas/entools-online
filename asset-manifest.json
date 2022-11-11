@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/entools-online/static/css/main.073c9b0a.css",
-    "main.js": "/entools-online/static/js/main.9a4ed925.js",
+    "main.css": "/entools-online/static/css/main.5365d27e.css",
+    "main.js": "/entools-online/static/js/main.ab47ab4f.js",
     "static/js/787.253c926b.chunk.js": "/entools-online/static/js/787.253c926b.chunk.js",
     "index.html": "/entools-online/index.html",
-    "main.073c9b0a.css.map": "/entools-online/static/css/main.073c9b0a.css.map",
-    "main.9a4ed925.js.map": "/entools-online/static/js/main.9a4ed925.js.map",
+    "main.5365d27e.css.map": "/entools-online/static/css/main.5365d27e.css.map",
+    "main.ab47ab4f.js.map": "/entools-online/static/js/main.ab47ab4f.js.map",
     "787.253c926b.chunk.js.map": "/entools-online/static/js/787.253c926b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9a4ed925.js"
+    "static/css/main.5365d27e.css",
+    "static/js/main.ab47ab4f.js"
   ]
 }
